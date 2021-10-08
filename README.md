@@ -13,4 +13,6 @@ I added an additional function where we can write to the database using a CLI to
 
 ## Architectural Diagram
 
-![output-onlinepngtools](https://user-images.githubusercontent.com/89488845/136622194-32c66ad4-8899-41b9-bb45-d72692aff21b.png)
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/89488845/136622194-32c66ad4-8899-41b9-bb45-d72692aff21b.png"/>
+</p>
